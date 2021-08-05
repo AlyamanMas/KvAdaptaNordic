@@ -1,6 +1,6 @@
 [%General]
-author=Tsu Jan
-comment=The dark varianl of KvAdapta
+author=Alyaman Maasarani
+comment=The nord variant of KvAdapta
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
 left_tabs=true
@@ -63,7 +63,7 @@ respect_DE=true
 submenu_delay=250
 
 [GeneralColors]
-window.color=#263238
+window.color=#000000
 base.color=#29353b
 alt.base.color=#2d3a41
 button.color=#2d393f
