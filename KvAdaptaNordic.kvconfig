@@ -63,16 +63,16 @@ respect_DE=true
 submenu_delay=250
 
 [GeneralColors]
-window.color=#2e3440
+window.color=#2a2f3a
 base.color=#2e3440
-alt.base.color=#3b4252
+alt.base.color=#2b303c
 button.color=#3b4252
 light.color=#4c566a
 mid.light.color=#434c5e
 dark.color=black
 mid.color=#242933
-highlight.color=#88c0d0
-inactive.highlight.color=#88c0d0
+highlight.color=#4c566a
+inactive.highlight.color=#4c566a
 text.color=#eceff4c8
 window.text.color=#eceff4aa
 button.text.color=#eceff4aa
