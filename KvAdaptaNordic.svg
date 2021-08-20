@@ -940,7 +940,7 @@
        transform="matrix(0,1,-1,0,0,0)" />
   </g>
   <path
-     style="fill:#263238"
+     style="fill:#2e3440"
      id="dock-normal"
      d="m 355,1170 h 30 v 30 h -30 z" />
   <g
@@ -1029,7 +1029,7 @@
      id="slider-toggled-bottomright"
      transform="matrix(1,0,0,-1,0,1484)" />
   <path
-     style="fill:#263238"
+     style="fill:#2e3440"
      id="dock-focused"
      d="m 407,1170 h 30 v 30 h -30 z" />
   <g
@@ -1045,7 +1045,7 @@
            id="path1800"
            d="m 105.5,200 c -4.40644,0 -8,3.59356 -8,8 5e-6,4.40644 3.59356,8 8,8 4.40643,0 8,-3.59357 8,-8 0,-4.40643 -3.59357,-8 -8,-8 z" />
         <path
-           style="fill:#263238"
+           style="fill:#2e3440"
            id="use3869"
            d="m 105.5,202 c 3.32567,0 6,2.67433 6,6 0,3.32567 -2.67433,6 -6,6 -3.32568,0 -6,-2.67432 -6,-6 3e-6,-3.32568 2.67432,-6 6,-6 z" />
       </g>
@@ -2409,7 +2409,7 @@
      style="fill-rule:evenodd"
      id="g2080">
     <path
-       style="fill:#263238"
+       style="fill:#2e3440"
        id="header-normal"
        d="m 78.5,90.5 0,-6 -6,0 0,6 z" />
     <path
@@ -2787,7 +2787,7 @@
        id="slidercursor-normal"
        d="m 395,742.5 c -2.64704,2.20595 -5.58246,7.5 -10.553,7.5 -4.97054,0 -7.45032,-3.52943 -7.44696,-7.5 0.003,-3.97108 2.47642,-7.5 7.44696,-7.5 4.97055,0 7.90598,5.29415 10.553,7.5 z" />
     <path
-       style="fill:#263238;stroke:#3d494f;stroke-width:3"
+       style="fill:#2e3440;stroke:#3d494f;stroke-width:3"
        id="slidercursor-disabled"
        d="m 426.6782,742.5 c -2.08504,1.76473 -4.39721,6 -8.31239,6 -3.91514,0 -5.86841,-2.82357 -5.86576,-6 0.002,-3.17695 1.95062,-6 5.86576,-6 3.91517,0 6.22734,4.23536 8.31239,6 z" />
   </g>
@@ -3747,7 +3747,7 @@
     <circle
        cx="420"
        cy="721"
-       style="fill:#263238;stroke:#3d494f;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"
+       style="fill:#2e3440;stroke:#3d494f;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"
        r="7.5"
        id="slidercursor-tickless-disabled" />
   </g>
