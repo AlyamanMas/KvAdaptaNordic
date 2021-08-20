@@ -666,7 +666,7 @@
        id="rect4962"
        d="m 271,1170 h 2 v 30 h -2 z" />
     <path
-       style="fill:#29353b"
+       style="fill:#2e3440"
        id="path5131"
        d="m 272,1170 0,30 1,0 0,-30 z" />
     <path
@@ -683,7 +683,7 @@
        d="m 308.5,1173 -2,0 0,2 2,0 z"
        transform="translate(-35.5,-5)" />
     <path
-       style="fill:#29353b"
+       style="fill:#2e3440"
        id="path5157"
        d="m 273,1169 -1,0 0,1 1,0 z" />
     <path
@@ -1596,7 +1596,7 @@
        id="button-toggled"
        d="M 179,52 V 20 h -32 v 32 z" />
     <path
-       style="fill:#29353b"
+       style="fill:#2e3440"
        id="tabframe-normal"
        d="m 285.5,883.5 v 32 h 32 v -32 z" />
   </g>
@@ -1604,7 +1604,7 @@
      id="tabframe-normal-left"
      transform="matrix(0.8,0,0,0.98461538,264.5002,835.49842)">
     <path
-       style="fill:#29353b;fill-rule:evenodd"
+       style="fill:#2e3440;fill-rule:evenodd"
        id="path5181"
        d="m 26.25,81.2514 0,-32.4998 -5,0 0,32.5 z" />
     <path
@@ -1616,7 +1616,7 @@
      id="tabframe-normal-topleft"
      transform="matrix(0.8,0,0,0.8,264.5002,846.49872)">
     <path
-       style="fill:#29353b;fill-rule:evenodd"
+       style="fill:#2e3440;fill-rule:evenodd"
        id="path5188"
        d="m 26.25,41.2516 -5,0 0,5 5,0 z" />
     <path
@@ -2072,7 +2072,7 @@
        id="rect4870"
        d="m 270.5,1170 h 2.5 v 30 h -2.5 z" />
     <path
-       style="fill:#29353b"
+       style="fill:#2e3440"
        id="path4872"
        d="m 272,1170 0,30 1,0 0,-30 z" />
     <path
@@ -2089,7 +2089,7 @@
        d="m 308.5,1172.5 -2.5,0 0,2.5 2.5,0 z"
        transform="translate(-35.5,-5)" />
     <path
-       style="fill:#29353b"
+       style="fill:#2e3440"
        id="path4880"
        d="m 273,1169 -1,0 0,1 1,0 z" />
     <path
@@ -2926,7 +2926,7 @@
      id="button-normal-topright"
      transform="matrix(-1,0,0,1,46,0)" />
   <path
-     style="fill:#29353b"
+     style="fill:#2e3440"
      id="lineedit-normal"
      d="m 322.5,95 h 10 v 10 h -10 z" />
   <path
@@ -2934,7 +2934,7 @@
      id="combo-pressed-bottom"
      d="m 415.5,110.5 h 32 v -3 h -32 z" />
   <path
-     style="fill:#29353b"
+     style="fill:#2e3440"
      id="combo-normal"
      d="m 416.5,81.5001 h 10 v 10 h -10 z " />
   <g
